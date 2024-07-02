@@ -1,0 +1,32 @@
+{
+  "todos": [
+    {
+      "title": "BMW",
+      "id": "1"
+    },
+    {
+      "title": "Mahindra",
+      "id": "2"
+    },
+    {
+      "title": "Jeep",
+      "id": "3"
+    },
+    {
+      "title": "Dodge Challenger",
+      "id": "4"
+    },
+    {
+      "title": "Mustang GT",
+      "id": "5"
+    },
+    {
+      "title": "Suzuki Swift",
+      "id": "6"
+    },
+    {
+      "title": "TATA Safari",
+      "id": "7"
+    }
+  ]
+}
